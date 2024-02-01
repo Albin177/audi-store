@@ -101,7 +101,7 @@ session_start();
 														{				
 																	while($rows=mysqli_fetch_array($query))
 																		{
-																				$mql="select * from restaurant where rs_id='".$rows['rs_id']."'";
+																				$mql="select * from products where rs_id='".$rows['rs_id']."'";
 																				$newquery=mysqli_query($db,$mql);
 																				$fetch=mysqli_fetch_array($newquery);
 																				

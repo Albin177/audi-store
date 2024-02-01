@@ -71,7 +71,7 @@ else
                         <li> <a href="all_users.php"> <span><i class="fa fa-user f-s-20 "></i></span><span>Users</span></a></li>
                         <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-user f-s-20" aria-hidden="true"></i><span class="hide-menu">Products</span></a>
                             <ul aria-expanded="false" class="collapse">
-                                <li><a href="all_product.php">All Products</a></li>
+                                <li><a href="./all_product.php">All Products</a></li>
                                 <li><a href="add_product.php">Add a Product</a></li>
                             </ul>
                         </li>
