@@ -106,7 +106,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`u_id`, `username`, `f_name`, `l_name`, `email`, `phone`, `password`, `address`, `status`, `date`) VALUES
-(13, 'albin', 'albin', 'gashi', 'albinrgashi@gmail.com', '+38349137023', 'f6fdffe48c908deb0f4c3bd36c032e72', '', 1, '2024-01-26 00:19:38');
+(13, 'albin', 'albin', 'gashi', 'albinrgashi@gmail.com', '+38349137023', 'albinshala', '', 1, '2024-01-26 00:19:38');
 
 -- --------------------------------------------------------
 
